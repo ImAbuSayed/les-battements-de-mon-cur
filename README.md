@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-battements-de-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Les Battements De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-battements-de-mon-cur/) |
+| **Get License** | [Request Licensing for Les Battements De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-battements-de-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre du club, bébé, tu brilles de mille feux
+> L'atmosphère est si lourde, je me perds dans tes yeux
+> Viens avec moi ce soir, on va toucher le sommet
+> Tu m'attires comme un aimant, never let you go, jamais
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
