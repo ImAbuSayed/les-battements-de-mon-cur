@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-battements-de-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Les Battements De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-battements-de-mon-cur/) |
+| **Get License** | [Obtain a Music License for Les Battements De Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-battements-de-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4e6e508e9d61becadbf62f01f1b3bac23ce859f08bcdbd96c418127b7f01ae93` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
